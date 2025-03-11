@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="https://discord.gg/zgUabBSxP7">
+  <a href="https://discord.gg/dR9tv44U5G">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=black" alt="Discord Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCEOOSC1vifdtkt1FzArsoiQ">
@@ -9,11 +9,6 @@
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=red" alt="TikTok Badge"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
@@ -33,7 +28,7 @@
 
 ---
 ###  My Git Stats :
-
+![vLxve's GitHub stats](https://github-readme-stats.vercel.app/api?username=vLxve&show_icons=true&theme=github_dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vLxve&theme=dark&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vLxve&layout=compact&theme=vision-friendly-dark)
