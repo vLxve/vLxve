@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=red" alt="TikTok Badge"/>
   </a>
 </div>
----
 
 ### :man_technologist: About Me :
 
